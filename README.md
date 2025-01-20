@@ -1,7 +1,7 @@
 # Nutanix-Flash-Drive-Performance-Tiering
 
 ## Disclaimer 
-Per the request of Nutanix, the test data used for clustering has been removed, and the SQL server previously used to run this project has been decommissioned. Efforts are currently underway to develop a workaround, including setting up a new SQL server populated with synthetic test data generated using machine learning techniques.
+Per the request of Nutanix, the test data used for clustering has been removed, and the SQL server previously used to run this project has been decommissioned. Efforts are currently underway to develop a workaround, including setting up a new SQL server populated with synthetic test data generated using machine learning techniques. 
 
 
 ## Descripion 
@@ -19,6 +19,9 @@ This project utilizes the KMeans unsupervised learning algorithm to cluster flas
 **`/reports `** : outlines strategies and techniques used to determine clusters 
 
 **`main.py `** : used to run the clustering and prediciton algorithm in /data_analysis
+
+## Contact 
+Please email fujimotothomas@outlook.com with any questions you may have!
 
 
 ## Credits 
